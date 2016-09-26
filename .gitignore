@@ -53,3 +53,25 @@ bower.json
 !/log/.keep
 /tmp
 >>>>>>> Initialize repository
+
+.idea/.generators
+
+.idea/.rakeTasks
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/runConfigurations/Development__toy_app.xml
+
+.idea/runConfigurations/Production__toy_app.xml
+
+.idea/runConfigurations/spec__toy_app.xml
+
+.idea/runConfigurations/test__toy_app.xml
+
+.idea/toy_app.iml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
