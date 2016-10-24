@@ -1,5 +1,5 @@
 # toy_app
-This is the toy_app apart of the rails tutorial book online.
+This is the toy_app from Chapter 2 of the rails tutorial book online.
 
 This app does not have end to end testing and was not made with TDD.
 
